@@ -12,6 +12,11 @@ CPP-game
 │      main.cpp
 │      README.md
 │
+├─Minesweeper
+│      history.txt
+│      main.cpp
+│      main.exe
+│
 ├─OOXX
 │      main.cpp
 │      README.md
